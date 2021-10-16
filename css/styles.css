@@ -1,0 +1,34 @@
+header{text-align: center;
+    background-color: #E5E5E5;
+background-image: url('../img/Fondo-Banner.jpg');
+}
+
+h1{font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: #C4C4C4;
+    font-size: 35px;
+    text-transform: uppercase;
+    color: #005677;
+
+}
+
+h2{font-family: 'Times New Roman', Times, serif;
+    color: #005677;
+    text-align: left;
+    font-size: 20px;
+    text-transform: uppercase;
+    background-color: #C4C4C4;
+}
+
+footer{background-color: #005677;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+li{font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 15px;
+    line-height: 84.69%;}
